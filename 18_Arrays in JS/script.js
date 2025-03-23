@@ -1,0 +1,1 @@
+const fruitsCollection = ['Apples','Banana','Grapes','Dates']
